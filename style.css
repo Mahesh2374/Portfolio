@@ -655,7 +655,7 @@ footer span a:hover{
     }
     .skills .skills-content .column,
     .contact .contact-content .column,
-    .social-media a{ 
+    .social-media i{ 
         width: 100%;
         margin-bottom: 35px;
     }
@@ -674,9 +674,6 @@ footer span a:hover{
     .home .home-content a{
         font-size:20px; 
     }
-    .social-media a{
-        width: 100%;
-    }
 
 }
 
@@ -690,7 +687,5 @@ footer span a:hover{
     .home .home-content .text-3{
         font-size: 27px;
     }
-    .social-media a{
-    width: 100%;
-    }
+    
 }
