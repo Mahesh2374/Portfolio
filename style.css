@@ -674,6 +674,9 @@ footer span a:hover{
     .home .home-content a{
         font-size:20px; 
     }
+    .social-media{
+        width: 100%;
+    }
 
 }
 
