@@ -24,7 +24,7 @@ $(document).ready(function () {
   });
 
   //typing animation script
-  /*var typed = new Typed(".typing", {
+  var typed = new Typed(".typing", {
     strings: ["Full-Stack Web Devolper", "Full-Stack Web Developer"],
     typeSpeed: 100,
     backSpeed: 60,
@@ -36,7 +36,7 @@ $(document).ready(function () {
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
-  });*/
+  });
 
   //owl carousel script
   $(".carousel").owlCarousel({
